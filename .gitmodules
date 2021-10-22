@@ -31,3 +31,6 @@
 [submodule "extra/dfu-util"]
 	path = extra/dfu-util
 	url = git://git.code.sf.net/p/dfu-util/dfu-util
+[submodule "libraries/Adafruit_Sensor"]
+	path = libraries/Adafruit_Sensor
+	url = https://github.com/mcci-catena/Adafruit_Sensor.git
