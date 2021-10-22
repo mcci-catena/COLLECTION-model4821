@@ -27,7 +27,7 @@ ARDUINO_OPTIONS="$(echo '
                     ' | xargs echo)"
 readonly ARDUINO_OPTIONS
 
-readonly ARDUINO_SOURCE=sketches/Catena-sketches/catena4612_simple/catena4612_simple.ino
+readonly ARDUINO_SOURCE=sketches/Catena-Sketches/catena4612_simple/catena4612_simple.ino
 
 readonly BOOTLOADER_NAME=McciBootloader_46xx
 
