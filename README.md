@@ -18,11 +18,10 @@ This document and the contents of this repository are copyright 2021, MCCI Corpo
 
 ### License
 
-This repository is released under the [MIT](./LICENSE) license. Commercial licenses are also available from MCCI Corporation.
+This repository is released under the [MIT](./LICENSE.md) license. Commercial licenses are also available from MCCI Corporation.
 
 ### Support Open Source Hardware and Software
 
 MCCI invests time and resources providing this open source code, please support MCCI and open-source hardware by purchasing products from MCCI, Adafruit and other open-source hardware/software vendors!
 
 For information about MCCI's products, please visit [store.mcci.com](https://store.mcci.com/).
-
