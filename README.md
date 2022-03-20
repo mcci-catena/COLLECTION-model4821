@@ -1,5 +1,7 @@
 # COLLECTION-model4821
 
+[![GitHub release](https://img.shields.io/github/release/mcci-catena/COLLECTION-model4821.svg)](https://github.com/mcci-catena/COLLECTION-model4821/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/COLLECTION-model4821/latest.svg)](https://github.com/mcci-catena/COLLECTION-model4821/compare/v0.4.0...main)
+
 Source and required libraries for the MCCI&reg; Model 4821 Indoor Environment Sensor.
 
 This repo is mostly submodules; clone it using `git clone --recursive`.
@@ -9,6 +11,10 @@ The script [`build-with-cli.sh`](build-with-cli.sh) can be used to build the `ca
 ---
 
 ## Meta
+
+### Revision History
+
+v0.4.0 is the first official release from this collection.
 
 ### Trademarks and copyright
 
